@@ -1,3 +1,6 @@
+# Changed the file for testing
+
+
 # Python code to illustrate Sending mail from  
 # your Gmail account  
 import smtplib 
